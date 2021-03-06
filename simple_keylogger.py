@@ -1,3 +1,4 @@
+#you must pip install keyboard
 import keyboard 
 import smtplib
 from threading import Semaphore, Timer
